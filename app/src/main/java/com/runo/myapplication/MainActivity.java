@@ -13,9 +13,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        int i =0;
         int i1 = 1;
         int j =1;
         int w = 1;
+        int malfma = 11;
+        for (int i = 0; i < 10; i++) {
+            
+        } 
     }
 }
